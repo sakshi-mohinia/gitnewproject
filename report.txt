@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 2. Welcome to your first session
 3. Git is a version control system
 4. add more features
 5. add more features
+=======
+1. github pull demo
+2. Welcome to your first session
+3. Git is a version control system
+>>>>>>> 965a38c9875acd18b589d359a02acd8bc68862d3
